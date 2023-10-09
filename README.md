@@ -1,8 +1,8 @@
 # Wealth of nations Analysis using Excel and Tableau
 
-Measured the statsistics of a specfic number of countries.
+Measured the statistics of a specfic number of countries.
 The three categories that were considered were; GDP per capita, Life Expectancy and Number of Smartphone Users.
-The period considred for this analysis was between 2018 to 2020.
+The period considered for this analysis was between 2018 to 2020.
 This analysis gave me an idea of the standard of living of each nation, in focus, during the 2018-2020 period.
 Different visuals were used in my dashboard to indicate my analysis.
  

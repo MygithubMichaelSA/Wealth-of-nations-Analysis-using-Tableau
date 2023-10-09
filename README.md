@@ -1,4 +1,4 @@
-# Wealth of nations Analysis using Excel and Tableau
+# Wealth of nations Analysis using Tableau
 
 Measured the statistics of a specfic number of countries.
 The three categories that were considered were; GDP per capita, Life Expectancy and Number of Smartphone Users.
